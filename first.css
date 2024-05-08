@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(217, 219, 219)
+}
+#logo{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+#divider > h1{
+    text-align:center;
+    color:rgba(0, 0, 0, 0.808);
+}
+h3{
+    text-align:center;
+    color: rgb(44, 171, 194);
+}
+#squad{
+    color:rgb(5, 97, 92);
+}
+#sub{
+    color:blue;
+}
